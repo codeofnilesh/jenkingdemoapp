@@ -6,8 +6,8 @@
   
   <h2> Call Us : +91-9985396677 / +91 - 9985296677 </h2>
   
-  <h3> Our Ofc Location : Ameerpet, Hyderbad </h3>
-  <p>Hello nilesh congraatulation for successfully deploying app </p>
+  <h3> Our Ofc Location : Ameerpet, Hyderbad Hello nilesh congraatulation for successfully deploying app  </h3>
+ 
 
 
 </body>
